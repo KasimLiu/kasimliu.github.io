@@ -1,0 +1,48 @@
+p{
+    color: rgb(0, 0, 0);
+}
+
+
+a.kasimlink{
+    padding: 0px 30px;
+    margin-left: 10px;
+    border-radius: 50px;
+    color: #ccccff;
+
+}
+a.kasimlink:hover{
+    background-color: #ccccff;
+    color: white;
+}
+div.kasimdivgrey{
+    background-color: #ccccff;
+    padding: 30px;
+    border-radius: 10px;
+    box-sizing: border-box;
+    border: 1px solid #ccccff;
+    width: 100%;
+    margin: 10px auto;
+
+}
+h4.kasimsmallh4{
+    font-size: 18px;
+    color: rgb(47, 84, 153);
+}
+
+.kasimcolor{
+    color: #ccccff;
+}
+.crop{
+    height: 350px;
+    overflow: hidden;
+    object-fit:cover;
+    margin: 10px 5px;
+    border-radius: 10px;
+}
+.kasimcallmebg{
+    background-image: url("../assets/img/Purple.jpeg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
