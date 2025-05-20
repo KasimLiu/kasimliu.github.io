@@ -10972,4 +10972,22 @@ section.resume-section .resume-section-content {
 .kasimred{
 color: red;
 font-weight: 900;
+
+}.myButton {
+  padding: 10px;
+  background-color:#ccccff ;
+  color: white;
+  text-align:center;
 }
+
+.fixed {
+    display: fixed;
+}
+
+.fixed.to-top-right {
+    left: unset;
+    right: 0;
+    top: 0;
+    bottom: unset;
+}
+
