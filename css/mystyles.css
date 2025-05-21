@@ -46,3 +46,39 @@ h4.kasimsmallh4{
     background-attachment: fixed;
 }
 
+#tetris {
+  background-color: #000;
+  display: block;
+  margin: 0 auto;
+  border: 2px solid #ccc;
+}
+
+.whitecolor{
+    color: white !important;
+}
+
+.kasimspeech{
+    padding: 30px 40px;
+    background-color: #ccccff;
+    border-radius: 30px;
+    width: 80%;
+    margin: 0px auto;
+    font-family:'Noto Serif TC'
+}
+
+.serif{
+    font-family:'Noto Serif TC', sans-serif;
+}
+
+.textcenter{
+    text-align: center;
+}
+.herodown {
+  position: absolute;
+  bottom: 180px;
+  left: 57%;
+  font-size: 30px;
+  color: #ccccff;
+  text-decoration: none;
+
+}
