@@ -80,5 +80,11 @@ h4.kasimsmallh4{
   font-size: 30px;
   color: #ccccff;
   text-decoration: none;
+}
 
+.kasimaboutbg{
+    background-image: url("../assets/img/kasimaboutbg.jpeg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
 }
